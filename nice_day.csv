@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,Class
+Sunny,Hot,High,FALSE,N
+Sunny,Hot,High,TRUE,N
+Overcast,Hot,High,FALSE,P
+Rainy,Mild,High,FALSE,P
+Rainy,Cool,Normal,FALSE,P
+Rainy,Cool,Normal,TRUE,N
+Overcast,Cool,Normal,TRUE,P
+Sunny,Mild,High,FALSE,N
+Sunny,Cool,Normal,FALSE,P
+Rainy,Mild,Normal,FALSE,P
+Sunny,Mild,Normal,TRUE,P
+Overcast,Mild,High,TRUE,P
+Overcast,Hot,Normal,FALSE,P
+Rainy,Mild,High,TRUE,N
